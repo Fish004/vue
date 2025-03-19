@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h>132</h>
+
     <router-view></router-view>
     <floating-ball></floating-ball>
   </div>
